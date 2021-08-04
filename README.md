@@ -3,13 +3,11 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
-
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  name     = 'Facundo Javier Gomez';
+  title    = 'Futuro Full Stack';
+  company  = 'CoderHause | Remote';
+  location = 'Argentina, Buenos Aires';
 }
 
 class Skills extends SoftwareDeveloper {
