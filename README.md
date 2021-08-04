@@ -12,5 +12,7 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   Coder  = ['CSS3', 'HTML5'];
+  tools  = ['SASS', 'Boostrap'];
+  linkedIn   = 'https://www.linkedin.com/in/facundo-javier-gomez-b53034219/';
 }
 ```
