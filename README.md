@@ -6,7 +6,7 @@
 class Bio extends SoftwareDeveloper {
   name     = 'Facundo Javier Gomez';
   title    = 'Futuro Full Stack';
-  company  = 'CoderHause';
+  company  = 'CoderHouse';
   location = 'Argentina, Buenos Aires';
 }
 ```
