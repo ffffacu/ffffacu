@@ -36,9 +36,6 @@ class Bio extends SoftwareDeveloper {
          <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
       </td>
       <td>
-         <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Windows_Terminal_Logo.svg" />
-      </td>
-      <td>
          <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
       </td>
       <td>
