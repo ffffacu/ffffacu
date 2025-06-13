@@ -5,7 +5,7 @@
 ```js
 class Bio extends SoftwareDeveloper {
   name     = 'Facundo Javier Gomez';
-  title    = 'Futuro Full Stack';
+  title    = 'Full Stack';
   company  = 'CoderHouse';
   location = 'Argentina, Buenos Aires';
 }
